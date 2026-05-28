@@ -1,125 +1,109 @@
-# 💙 Welcome To My Digital World
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0ea5e9,100:2563eb&text=Abolfazl%20Nb&fontAlign=50&fontAlignY=40&fontSize=65&fontColor=ffffff&animation=fadeIn" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0b1020,25:0f172a,50:1e3a8a,75:2563eb,100:38bdf8&text=AbolfazlNbIR&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+%F0%9F%92%BB;Python+Developer+%F0%9F%90%8D;Linux+%26+Cybersecurity+Lover+%F0%9F%94%B5;Building+Cool+Things+Everyday+%F0%9F%9A%80;17+Years+Old+Developer+%F0%9F%92%99" />
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=700&lines=Full+Stack+Developer;Python+%26+JavaScript+Developer;Linux+Power+User;Building+Modern+Web+Experiences;Kali+Linux+Enjoyer" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Age-17-0f172a?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/OS-Kali%20Linux-111827?style=for-the-badge&logo=kalilinux&logoColor=38bdf8"/>
+<img src="https://img.shields.io/badge/Editor-VSCode-111827?style=for-the-badge&logo=visualstudiocode&logoColor=38bdf8"/>
+<img src="https://img.shields.io/badge/IDE-PyCharm-111827?style=for-the-badge&logo=pycharm&logoColor=38bdf8"/>
 
 </div>
 
 ---
 
-# 🌊 About Me
+# About Me
 
 ```yaml
 name: Abolfazl
-age: 17
+username: AbolfazlNbIR
 role: Full Stack Developer
+
 languages:
   - Python
+  - JavaScript
   - HTML
   - CSS
-  - JavaScript
 
-operating_system: Kali Linux
+environment:
+  os: Kali Linux
+  editors:
+    - VS Code
+    - PyCharm
 
-favorite_tools:
-  - VS Code
-  - PyCharm
-
-passion:
-  - Web Development
-  - Open Source
-  - Linux
-  - Automation
-  - Cybersecurity
-
-currently_learning:
-  - Advanced Backend
+focus:
+  - Frontend Development
+  - Backend Development
   - APIs
-  - DevOps
-  - AI Tools
+  - Automation
+  - Linux
 ```
 
 ---
 
-# ⚡ Tech Stack
+# Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,html,css,js,linux,bash,git,github,vscode,pycharm&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,js,html,css,linux,bash,git,github,vscode,pycharm&theme=dark" />
 
 </div>
 
 ---
 
-# 🔥 GitHub Stats
+# GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=ffffff" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AbolfazlNbIR&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b1020&title_color=38bdf8&icon_color=38bdf8&text_color=ffffff"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=ffffff" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbolfazlNbIR&layout=compact&theme=tokyonight&hide_border=true&bg_color=0b1020&title_color=38bdf8&text_color=ffffff"/>
 
 </div>
 
 ---
 
-# ⚔️ GitHub Streak
+# Contribution Streak
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" />
+<img src="https://streak-stats.demolab.com?user=AbolfazlNbIR&theme=tokyonight&hide_border=true&background=0b1020&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8"/>
 
 </div>
 
 ---
 
-# 🐍 Contribution Snake
+# Activity Graph
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=AbolfazlNbIR&bg_color=0b1020&color=38bdf8&line=2563eb&point=38bdf8&area=true&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🚀 Developer Quote
+# Contribution Snake
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+<img src="https://raw.githubusercontent.com/AbolfazlNbIR/AbolfazlNbIR/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
 ---
 
-# 🌌 Profile Views
+# Connect
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0ea5e9&style=for-the-badge" />
-
-</div>
-
----
-
-# 💙 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/Telegram-0ea5e9?style=for-the-badge&logo=telegram&logoColor=white"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/Instagram-2563eb?style=for-the-badge&logo=instagram&logoColor=white"/>
+<a href="https://github.com/AbolfazlNbIR">
+<img src="https://img.shields.io/badge/GitHub-0b1020?style=for-the-badge&logo=github&logoColor=38bdf8"/>
 </a>
 
 </div>
@@ -128,8 +112,6 @@ currently_learning:
 
 <div align="center">
 
-### 💙 Eat • Sleep • Code • Repeat 💙
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0ea5e9,100:2563eb"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:38bdf8,100:1d4ed8"/>
 
 </div>
