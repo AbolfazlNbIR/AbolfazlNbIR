@@ -1,145 +1,104 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=340&color=0:000000,20:020617,40:0f172a,70:1d4ed8,100:38bdf8&text=AbolfazlNbIR&fontSize=78&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f2e,50:0d47a1,100:1565c0&height=200&section=header&text=AbolfazlNb&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=iqaux%20â€¢%20Developer%20â€¢%2017%20y/o%20â€¢%20Iran%20ðŸ‡®ðŸ‡·&descAlignY=58&descSize=18" width="100%"/>
 
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&pause=1000&color=38BDF8&center=true&vCenter=true&width=1000&height=80&lines=FULL+STACK+DEVELOPER;PYTHON+ENGINEER;LINUX+POWER+USER;BACKEND+%26+AUTOMATION+DEVELOPER;BUILDING+MODERN+DIGITAL+EXPERIENCES" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/PYTHON-020617?style=for-the-badge&logo=python&logoColor=38bdf8"/>
-<img src="https://img.shields.io/badge/JAVASCRIPT-020617?style=for-the-badge&logo=javascript&logoColor=38bdf8"/>
-<img src="https://img.shields.io/badge/HTML5-020617?style=for-the-badge&logo=html5&logoColor=38bdf8"/>
-<img src="https://img.shields.io/badge/CSS3-020617?style=for-the-badge&logo=css3&logoColor=38bdf8"/>
-<img src="https://img.shields.io/badge/KALI_LINUX-020617?style=for-the-badge&logo=kalilinux&logoColor=38bdf8"/>
-
-<br><br>
-
-<img src="https://img.shields.io/github/followers/AbolfazlNbIR?style=for-the-badge&color=38bdf8&labelColor=020617"/>
-
-<img src="https://img.shields.io/github/stars/AbolfazlNbIR?style=for-the-badge&color=0ea5e9&labelColor=020617"/>
-
-</div>
-
----
-
-<div align="center">
-
-# ABOUT ME
-
-Full Stack Developer focused on building high-performance modern applications, backend systems, and clean user experiences.
-
-Passionate about Python, JavaScript, Linux systems, APIs, automation, and scalable architecture.
-
-Currently working with Kali Linux, VS Code, and PyCharm while constantly improving development skills.
-
-</div>
-
----
-
-# TECH STACK
-
-<div align="center">
-
-<img width="85%" src="https://skillicons.dev/icons?i=python,js,html,css,linux,bash,git,github,vscode,pycharm&theme=dark"/>
-
-</div>
-
----
-
-# GITHUB OVERVIEW
-
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AbolfazlNbIR&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=ffffff"/>
-
-<img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AbolfazlNbIR&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=ffffff"/>
-
-</div>
-
----
-
-# CONTRIBUTION STREAK
-
-<div align="center">
-
-<img width="80%" src="https://github-readme-streak-stats.herokuapp.com?user=AbolfazlNbIR&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8"/>
-
-</div>
-
----
-
-# ACTIVITY GRAPH
-
-<div align="center">
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=AbolfazlNbIR&bg_color=0d1117&color=38bdf8&line=2563eb&point=38bdf8&area=true&hide_border=true"/>
-
-</div>
-
----
-
-# DEVELOPMENT ENVIRONMENT
-
-<div align="center">
-
-<table>
-<tr>
-
-<td align="center" width="50%">
-
-<img src="https://skillicons.dev/icons?i=linux" width="80"/>
-
-### Kali Linux
-
-Advanced Linux Environment
-
-</td>
-
-<td align="center" width="50%">
-
-<img src="https://skillicons.dev/icons?i=vscode,pycharm" width="80"/>
-
-### VS Code & PyCharm
-
-Modern Development Workflow
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
----
-
-# PROFILE VIEWS
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=AbolfazlNbIR&style=for-the-badge&color=38bdf8&label=PROFILE+VIEWS"/>
-
-</div>
-
----
-
-# CONNECT
-
-<div align="center">
-
-<a href="https://github.com/AbolfazlNbIR">
-
-<img src="https://img.shields.io/badge/GITHUB_PROFILE-020617?style=for-the-badge&logo=github&logoColor=38bdf8"/>
-
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=4FC3F7&center=true&vCenter=true&width=600&lines=Hello+World+%F0%9F%91%8B+Welcome+to+my+GitHub!;Full-Stack+Developer+from+Iran+%F0%9F%87%AE%F0%9F%87%B7;Python+%7C+JavaScript+%7C+FastAPI+%7C+Flask;17+y%2Fo+and+building+cool+stuff+%F0%9F%9A%80;How+are+you%3F+Have+a+great+day!+%E2%98%80%EF%B8%8F" alt="Typing SVG" />
 </a>
 
-</div>
+<br/>
+<br/>
+
+<!-- Snake animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg"/>
+  <img alt="snake" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg"/>
+</picture>
+
+<br/>
 
 ---
 
-<div align="center">
+## â–«ï¸ About Me â–«ï¸
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&section=footer&color=0:38bdf8,100:2563eb"/>
+```yaml
+name       : AbolfazlNb
+username   : @iqaux
+age        : 17
+location   : Iran ðŸ‡®ðŸ‡·
+role       : Developer
+status     : always coding... â˜•
+```
+
+---
+
+## ðŸ› ï¸ Tech Stack
+
+<br/>
+
+**Languages**
+
+<img src="https://img.shields.io/badge/Python-0d47a1?style=for-the-badge&logo=python&logoColor=4FC3F7"/>
+<img src="https://img.shields.io/badge/HTML5-0a1628?style=for-the-badge&logo=html5&logoColor=4FC3F7"/>
+<img src="https://img.shields.io/badge/CSS3-0d1f3c?style=for-the-badge&logo=css3&logoColor=4FC3F7"/>
+<img src="https://img.shields.io/badge/JavaScript-0a1628?style=for-the-badge&logo=javascript&logoColor=4FC3F7"/>
+
+<br/><br/>
+
+**Frameworks**
+
+<img src="https://img.shields.io/badge/FastAPI-0d47a1?style=for-the-badge&logo=fastapi&logoColor=4FC3F7"/>
+<img src="https://img.shields.io/badge/Flask-0a1628?style=for-the-badge&logo=flask&logoColor=4FC3F7"/>
+<img src="https://img.shields.io/badge/TailwindCSS-0d1f3c?style=for-the-badge&logo=tailwind-css&logoColor=4FC3F7"/>
+
+<br/><br/>
+
+**OS**
+
+<img src="https://img.shields.io/badge/Windows-0d47a1?style=for-the-badge&logo=windows&logoColor=4FC3F7"/>
+
+---
+
+## ðŸ“Š GitHub Stats
+
+<br/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AbolfazlNb&show_icons=true&theme=tokyonight&bg_color=0a0f2e&border_color=1565c0&title_color=4FC3F7&icon_color=4FC3F7&text_color=e0f7fa&hide_border=false&rank_icon=github"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AbolfazlNb&theme=tokyonight&background=0a0f2e&border=1565c0&stroke=4FC3F7&ring=1565c0&fire=4FC3F7&currStreakLabel=4FC3F7&sideLabels=e0f7fa&currStreakNum=ffffff&sideNums=ffffff&dates=7986cb"/>
+
+<br/><br/>
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbolfazlNb&layout=compact&theme=tokyonight&bg_color=0a0f2e&border_color=1565c0&title_color=4FC3F7&text_color=e0f7fa"/>
+
+---
+
+## ðŸŒ Connect With Me
+
+<br/>
+
+<a href="https://github.com/AbolfazlNb">
+  <img src="https://img.shields.io/badge/GitHub-0d47a1?style=for-the-badge&logo=github&logoColor=4FC3F7"/>
+</a>
+<a href="https://t.me/iqaux">
+  <img src="https://img.shields.io/badge/Telegram-@iqaux-0a1628?style=for-the-badge&logo=telegram&logoColor=4FC3F7"/>
+</a>
+
+---
+
+## ðŸŒŸ Activity Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AbolfazlNb&bg_color=0a0f2e&color=4FC3F7&line=1565c0&point=ffffff&area=true&hide_border=false&border_color=1565c0)](https://github.com/AbolfazlNb)
+
+---
+
+<!-- Animated Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1565c0,50:0d47a1,100:0a0f2e&height=120&section=footer&animation=fadeIn" width="100%"/>
+
+<img src="https://komarev.com/ghpvc/?username=AbolfazlNb&color=1565c0&style=for-the-badge&label=PROFILE+VIEWS"/>
+
+**â–«ï¸ GoodBye â€” Have A Good Day â–«ï¸**
 
 </div>
