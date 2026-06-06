@@ -1,129 +1,136 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:1a3a5c,100:0077b6&height=200&section=header&text=Abolfazl&fontSize=70&fontColor=90e0ef&fontAlignY=38&desc=@iqaux%20•%20Developer%20•%20Iran&descAlignY=60&descSize=18&descColor=48cae4&animation=fadeIn" width="100%"/>
-
-<!-- Typing SVG -->
-<a href="https://github.com/AbolfazlNbIR">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=500&lines=Hey+there!+Welcome+%F0%9F%91%8B;I'm+a+17+y%2Fo+Developer+from+Iran+%F0%9F%87%AE%F0%9F%87%B7;Python+%7C+HTML+%7C+CSS+%7C+JavaScript;Building+cool+things+one+line+at+a+time!" alt="Typing SVG" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:03045e,30:023e8a,60:0077b6,100:00b4d8&height=220&section=header&text=Abolfazl&fontSize=80&fontColor=caf0f8&fontAlignY=40&desc=@iqaux%20•%20Young%20Developer%20from%20Iran%20🇮🇷&descAlignY=62&descSize=20&descColor=90e0ef&animation=fadeIn" width="100%"/>
 
 <br/>
-<br/>
 
-<!-- Profile Views & Followers Badges -->
-<img src="https://komarev.com/ghpvc/?username=AbolfazlNbIR&style=for-the-badge&color=0077b6&label=PROFILE+VIEWS" alt="profile views"/>
-&nbsp;
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&height=60&lines=👋+Hello!+Welcome+to+my+GitHub!;💻+I'm+a+17+y%2Fo+Developer;🐍+Python+%7C+HTML+%7C+CSS+%7C+JavaScript;⚡+FastAPI+%7C+Flask+%7C+TailwindCSS;🚀+Always+learning+new+things!" alt="Typing SVG"/>
+
+<br/><br/>
+
+<!-- Badges -->
+<img src="https://komarev.com/ghpvc/?username=AbolfazlNbIR&style=for-the-badge&color=0077b6&label=PROFILE+VIEWS&abbreviated=true" alt="views"/>
+&nbsp;&nbsp;
 <a href="https://github.com/AbolfazlNbIR?tab=followers">
   <img src="https://img.shields.io/github/followers/AbolfazlNbIR?style=for-the-badge&color=0096c7&labelColor=03045e&label=FOLLOWERS" alt="followers"/>
 </a>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/AGE-17-00b4d8?style=for-the-badge&labelColor=03045e" alt="age"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/FROM-Iran%20🇮🇷-0077b6?style=for-the-badge&labelColor=023e8a" alt="from"/>
 
 </div>
 
+<br/>
+
 ---
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/> &nbsp; About Me
+<div align="center">
+<h2>👤 &nbsp; About Me</h2>
+</div>
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding gif"/>
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="coding gif"/>
 
-```python
-class Abolfazl:
-    def __init__(self):
-        self.username   = "@iqaux"
-        self.age        = 17
-        self.location   = "Iran 🇮🇷"
-        self.role       = "Developer"
-        self.languages  = ["Python", "HTML", "CSS", "JavaScript"]
-        self.frameworks = ["FastAPI", "Flask", "TailwindCSS"]
-        self.os         = "Windows 🪟"
-        self.github     = "github.com/AbolfazlNbIR"
+&nbsp;&nbsp;&nbsp; 👋 &nbsp; Hello! My name is **Abolfazl** and I go by **@iqaux** online.
 
-    def say_hi(self):
-        print("Thanks for visiting! Have a great day 😊")
+&nbsp;&nbsp;&nbsp; 🇮🇷 &nbsp; I'm a **17-year-old developer** from **Iran**, passionate about building things with code.
 
-me = Abolfazl()
-me.say_hi()
-```
+&nbsp;&nbsp;&nbsp; 💻 &nbsp; I love working with **Python**, building **web apps**, and creating **beautiful UIs**.
+
+&nbsp;&nbsp;&nbsp; 🚀 &nbsp; Always learning, always growing — one project at a time.
+
+&nbsp;&nbsp;&nbsp; 🖥️ &nbsp; I work on **Windows** and enjoy exploring new technologies every day.
+
+&nbsp;&nbsp;&nbsp; 🌐 &nbsp; You can find all my work at **[github.com/AbolfazlNbIR](https://github.com/AbolfazlNbIR)**
+
+&nbsp;&nbsp;&nbsp; 😊 &nbsp; Feel free to explore my repos, drop a star, and say hi!
 
 <br clear="right"/>
 
 ---
 
-## 🛠️ &nbsp; Tech Stack
-
 <div align="center">
+<h2>🛠️ &nbsp; Tech Stack</h2>
 
-### 💻 Languages
+<br/>
+
+**💻 Languages**
+
 <p>
-  <img src="https://img.shields.io/badge/Python-0d1b2a?style=for-the-badge&logo=python&logoColor=00b4d8" alt="Python"/>
+  <img src="https://img.shields.io/badge/Python-03045e?style=for-the-badge&logo=python&logoColor=00b4d8"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/HTML5-0d1b2a?style=for-the-badge&logo=html5&logoColor=48cae4" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/HTML5-03045e?style=for-the-badge&logo=html5&logoColor=48cae4"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/CSS3-0d1b2a?style=for-the-badge&logo=css3&logoColor=90e0ef" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/CSS3-03045e?style=for-the-badge&logo=css3&logoColor=90e0ef"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/JavaScript-0d1b2a?style=for-the-badge&logo=javascript&logoColor=00b4d8" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/JavaScript-03045e?style=for-the-badge&logo=javascript&logoColor=00b4d8"/>
 </p>
 
-### ⚙️ Frameworks & Tools
+<br/>
+
+**⚙️ Frameworks**
+
 <p>
-  <img src="https://img.shields.io/badge/FastAPI-0d1b2a?style=for-the-badge&logo=fastapi&logoColor=48cae4" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/FastAPI-023e8a?style=for-the-badge&logo=fastapi&logoColor=48cae4"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Flask-0d1b2a?style=for-the-badge&logo=flask&logoColor=90e0ef" alt="Flask"/>
+  <img src="https://img.shields.io/badge/Flask-023e8a?style=for-the-badge&logo=flask&logoColor=90e0ef"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/TailwindCSS-0d1b2a?style=for-the-badge&logo=tailwindcss&logoColor=00b4d8" alt="TailwindCSS"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-023e8a?style=for-the-badge&logo=tailwindcss&logoColor=00b4d8"/>
 </p>
 
-### 🖥️ OS
+<br/>
+
+**🖥️ Operating System**
+
 <p>
-  <img src="https://img.shields.io/badge/Windows-0d1b2a?style=for-the-badge&logo=windows&logoColor=48cae4" alt="Windows"/>
+  <img src="https://img.shields.io/badge/Windows-0077b6?style=for-the-badge&logo=windows&logoColor=caf0f8"/>
 </p>
 
 </div>
 
 ---
 
-## 📊 &nbsp; GitHub Stats
-
 <div align="center">
+<h2>📊 &nbsp; GitHub Stats</h2>
 
-<img src="https://github-readme-stats.vercel.app/api?username=AbolfazlNbIR&show_icons=true&theme=tokyonight&bg_color=0d1b2a&title_color=00b4d8&text_color=90e0ef&icon_color=48cae4&border_color=0077b6&border_radius=12&hide_border=false" width="48%" alt="GitHub Stats"/>
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=AbolfazlNbIR&show_icons=true&bg_color=03045e&title_color=00b4d8&text_color=90e0ef&icon_color=48cae4&border_color=0077b6&border_radius=15&hide_border=false&include_all_commits=true&count_private=true" width="49%" alt="GitHub Stats"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbolfazlNbIR&layout=compact&theme=tokyonight&bg_color=0d1b2a&title_color=00b4d8&text_color=90e0ef&border_color=0077b6&border_radius=12" width="40%" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbolfazlNbIR&layout=compact&bg_color=03045e&title_color=00b4d8&text_color=90e0ef&border_color=0077b6&border_radius=15&langs_count=6" width="40%" alt="Top Languages"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=AbolfazlNbIR&theme=dark&background=0d1b2a&border=0077b6&ring=00b4d8&fire=48cae4&currStreakLabel=90e0ef&sideLabels=90e0ef&currStreakNum=00b4d8&sideNums=48cae4&dates=4a9eba&border_radius=12" width="55%" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=AbolfazlNbIR&theme=transparent&background=03045e&border=0077b6&ring=00b4d8&fire=48cae4&currStreakLabel=90e0ef&sideLabels=90e0ef&currStreakNum=00b4d8&sideNums=48cae4&dates=4a9eba&border_radius=15&stroke=0077b6" width="58%" alt="GitHub Streak"/>
 
 </div>
 
 ---
 
-## 🏆 &nbsp; GitHub Trophies
-
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=AbolfazlNbIR&theme=algolia&column=6&margin-w=8&margin-h=8&no-bg=true" alt="Trophies"/>
+<h2>📈 &nbsp; Contribution Graph</h2>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbolfazlNbIR&bg_color=03045e&color=00b4d8&line=0077b6&point=48cae4&area=true&area_color=023e8a&hide_border=false&border_color=0096c7&radius=10" width="96%" alt="Contribution Graph"/>
+
 </div>
 
 ---
 
-## 📈 &nbsp; Contribution Graph
-
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbolfazlNbIR&bg_color=0d1b2a&color=00b4d8&line=0077b6&point=48cae4&area=true&area_color=023e8a&hide_border=false&border_color=0077b6&radius=8" width="95%" alt="Contribution Graph"/>
-</div>
+<h2>🌐 &nbsp; Connect With Me</h2>
 
----
-
-## 🌐 &nbsp; Connect With Me
-
-<div align="center">
+<br/>
 
 <a href="https://github.com/AbolfazlNbIR">
-  <img src="https://img.shields.io/badge/GitHub-0d1b2a?style=for-the-badge&logo=github&logoColor=00b4d8" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-%40AbolfazlNbIR-03045e?style=for-the-badge&logo=github&logoColor=00b4d8&labelColor=023e8a"/>
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://t.me/iqaux">
-  <img src="https://img.shields.io/badge/Telegram-0d1b2a?style=for-the-badge&logo=telegram&logoColor=48cae4" alt="Telegram"/>
+  <img src="https://img.shields.io/badge/Telegram-%40iqaux-03045e?style=for-the-badge&logo=telegram&logoColor=48cae4&labelColor=023e8a"/>
 </a>
 
 </div>
@@ -136,12 +143,12 @@ me.say_hi()
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbolfazlNbIR/AbolfazlNbIR/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbolfazlNbIR/AbolfazlNbIR/output/github-contribution-grid-snake.svg"/>
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AbolfazlNbIR/AbolfazlNbIR/output/github-contribution-grid-snake.svg"/>
+  <img alt="snake animation" src="https://raw.githubusercontent.com/AbolfazlNbIR/AbolfazlNbIR/output/github-contribution-grid-snake.svg"/>
 </picture>
 
 <br/>
 
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077b6,50:0096c7,100:0d1b2a&height=120&section=footer&text=Goodbye%20•%20Have%20a%20Great%20Day!&fontSize=20&fontColor=90e0ef&fontAlignY=65&animation=fadeIn" width="100%"/>
+<!-- Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,40:0077b6,70:023e8a,100:03045e&height=140&section=footer&text=Goodbye%20•%20Have%20a%20Great%20Day%20✨&fontSize=22&fontColor=caf0f8&fontAlignY=68&animation=fadeIn" width="100%"/>
 
 </div>
