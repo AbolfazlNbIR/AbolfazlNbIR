@@ -1,215 +1,144 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                  EPIC HEADER WAVE                      -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:020818,30:0a1628,60:0d2137,100:1a3a5c&height=220&section=header&text=AbolfazlNb&fontSize=75&fontColor=38bdf8&animation=blinking&fontAlignY=55&stroke=1e40af&strokeWidth=2&desc=⚡%20Full-Stack%20Developer%20•%20Iran%20🇮🇷%20•%2017%20y/o%20⚡&descSize=16&descAlignY=75&descColor=7dd3fc" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:bfdbfe,50:93c5fd,100:60a5fa&height=200&section=header&text=AbolfazlNb&fontSize=72&fontColor=1e3a5f&animation=fadeIn&fontAlignY=42&desc=Full-Stack%20Developer%20%E2%80%94%20Iran&descAlignY=62&descSize=17&descColor=1e40af&stroke=3b82f6&strokeWidth=1" width="100%"/>
 
 <br/>
 
-<!-- Glowing Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=3000&pause=800&color=38BDF8&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=50&lines=👋+Hello%2C+Welcome+To+My+GitHub!;🚀+Building+the+Future+with+Code...;🐍+Python+%7C+⚡+FastAPI+%7C+🌐+JavaScript;💡+17+y%2Fo+Dev+from+Iran+🇮🇷;🔥+Always+Learning%2C+Always+Growing...;☀️+Have+a+Great+Day!+Keep+Coding!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Raleway&weight=600&size=20&pause=1000&color=1D4ED8&background=FFFFFF00&center=true&vCenter=true&width=600&lines=Hello%2C+Welcome+To+My+Profile;Developer+%40+17+years+old;Python+%7C+JavaScript+%7C+FastAPI+%7C+Flask;Always+Learning%2C+Always+Building;Have+a+Good+Day" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-<!-- Blue glowing divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                    ABOUT ME SECTION                    -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> About Me
+## Who I Am
 
 <br/>
 
-```typescript
-const AbolfazlNb = {
-  username   : "@iqaux",
-  name       : "AbolfazlNb",
-  age        :  17,
-  location   : "Iran 🇮🇷",
-  role       : "Full-Stack Developer",
-  languages  : ["Python", "HTML", "CSS", "JavaScript"],
-  frameworks : ["FastAPI", "Flask", "TailwindCSS"],
-  os         : ["Windows"],
-  github     : "https://github.com/AbolfazlNb",
-  status     : "⚡ Always shipping something cool",
-  motto      : "Code is poetry written for machines 🎯"
-};
-```
+| | |
+|:---|:---|
+| **Name** | AbolfazlNb |
+| **Username** | @iqaux |
+| **Age** | 17 |
+| **Location** | Iran |
+| **Role** | Full-Stack Developer |
+| **GitHub** | [github.com/AbolfazlNb](https://github.com/AbolfazlNb) |
+| **Status** | Actively building & learning |
 
 <br/>
 
-<!-- Blue glowing divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                   SKILLS SECTION                       -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Tech Arsenal
+## Languages
 
 <br/>
 
-### ⚡ Programming Languages
-
-<p>
-  <img src="https://img.shields.io/badge/Python-020818?style=for-the-badge&logo=python&logoColor=38bdf8&labelColor=0a1628"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/HTML5-020818?style=for-the-badge&logo=html5&logoColor=38bdf8&labelColor=0a1628"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/CSS3-020818?style=for-the-badge&logo=css3&logoColor=38bdf8&labelColor=0a1628"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/JavaScript-020818?style=for-the-badge&logo=javascript&logoColor=38bdf8&labelColor=0a1628"/>
-</p>
-
-### 🚀 Frameworks & Libraries
-
-<p>
-  <img src="https://img.shields.io/badge/FastAPI-020818?style=for-the-badge&logo=fastapi&logoColor=38bdf8&labelColor=0a1628"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Flask-020818?style=for-the-badge&logo=flask&logoColor=38bdf8&labelColor=0a1628"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/TailwindCSS-020818?style=for-the-badge&logo=tailwind-css&logoColor=38bdf8&labelColor=0a1628"/>
-</p>
-
-### 🖥️ Operating System
-
-<p>
-  <img src="https://img.shields.io/badge/Windows-020818?style=for-the-badge&logo=windows11&logoColor=38bdf8&labelColor=0a1628"/>
-</p>
-
-### 🛠️ Tools & Platforms
-
-<p>
-  <img src="https://img.shields.io/badge/Git-020818?style=for-the-badge&logo=git&logoColor=38bdf8&labelColor=0a1628"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/GitHub-020818?style=for-the-badge&logo=github&logoColor=38bdf8&labelColor=0a1628"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/VS_Code-020818?style=for-the-badge&logo=visual-studio-code&logoColor=38bdf8&labelColor=0a1628"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Postman-020818?style=for-the-badge&logo=postman&logoColor=38bdf8&labelColor=0a1628"/>
-</p>
-
-<br/>
-
-<!-- Blue glowing divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                   STATS SECTION                        -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> GitHub Statistics
-
-<br/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AbolfazlNb&show_icons=true&theme=tokyonight&bg_color=020818&border_color=1e40af&title_color=38bdf8&icon_color=7dd3fc&text_color=bae6fd&hide_border=false&count_private=true&include_all_commits=true&rank_icon=percentile"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AbolfazlNb&theme=tokyonight&background=020818&border=1e40af&stroke=38bdf8&ring=0d47a1&fire=38bdf8&currStreakLabel=7dd3fc&sideLabels=bae6fd&currStreakNum=ffffff&sideNums=ffffff&dates=7986cb"/>
+<img src="https://img.shields.io/badge/Python-dbeafe?style=flat-square&logo=python&logoColor=1d4ed8"/>
+<img src="https://img.shields.io/badge/HTML5-dbeafe?style=flat-square&logo=html5&logoColor=1d4ed8"/>
+<img src="https://img.shields.io/badge/CSS3-dbeafe?style=flat-square&logo=css3&logoColor=1d4ed8"/>
+<img src="https://img.shields.io/badge/JavaScript-dbeafe?style=flat-square&logo=javascript&logoColor=1d4ed8"/>
 
 <br/><br/>
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbolfazlNb&layout=donut&theme=tokyonight&bg_color=020818&border_color=1e40af&title_color=38bdf8&text_color=bae6fd"/>
-&nbsp;&nbsp;&nbsp;
-<img width="52%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AbolfazlNb&theme=2077&utcOffset=3.5"/>
+## Frameworks
+
+<br/>
+
+<img src="https://img.shields.io/badge/FastAPI-bfdbfe?style=flat-square&logo=fastapi&logoColor=1d4ed8"/>
+<img src="https://img.shields.io/badge/Flask-bfdbfe?style=flat-square&logo=flask&logoColor=1d4ed8"/>
+<img src="https://img.shields.io/badge/TailwindCSS-bfdbfe?style=flat-square&logo=tailwind-css&logoColor=1d4ed8"/>
 
 <br/><br/>
 
-<!-- Trophy -->
-<img src="https://github-profile-trophy.vercel.app/?username=AbolfazlNb&theme=tokyonight&no-frame=true&no-bg=false&column=7&margin-w=8&margin-h=8&title=Stars,Commits,Repositories,Followers,PullRequest,Issues,Reviews"/>
+## Tools
 
 <br/>
 
-<!-- Blue glowing divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://img.shields.io/badge/Git-dbeafe?style=flat-square&logo=git&logoColor=1d4ed8"/>
+<img src="https://img.shields.io/badge/GitHub-dbeafe?style=flat-square&logo=github&logoColor=1d4ed8"/>
+<img src="https://img.shields.io/badge/VS%20Code-dbeafe?style=flat-square&logo=visual-studio-code&logoColor=1d4ed8"/>
+<img src="https://img.shields.io/badge/Windows-dbeafe?style=flat-square&logo=windows11&logoColor=1d4ed8"/>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                 CONTRIBUTION GRAPH                     -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
-## 📈 Contribution Graph
+---
 
 <br/>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AbolfazlNb&bg_color=020818&color=38bdf8&line=1e40af&point=7dd3fc&area_color=0d2137&area=true&hide_border=false&border_color=1e40af&custom_title=AbolfazlNb%20Contribution%20Graph&title_color=38bdf8)](https://github.com/AbolfazlNb)
+## GitHub Stats
 
 <br/>
 
-<!-- Snake Contribution Animation -->
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=AbolfazlNb&show_icons=true&bg_color=eff6ff&border_color=93c5fd&title_color=1d4ed8&icon_color=3b82f6&text_color=1e3a5f&hide_border=false&count_private=true&rank_icon=percentile"/>
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AbolfazlNb&background=eff6ff&border=93c5fd&stroke=3b82f6&ring=1d4ed8&fire=60a5fa&currStreakLabel=1d4ed8&sideLabels=1e3a5f&currStreakNum=1e3a5f&sideNums=1e3a5f&dates=6b7280"/>
+
+<br/><br/>
+
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbolfazlNb&layout=donut&bg_color=eff6ff&border_color=93c5fd&title_color=1d4ed8&text_color=1e3a5f&hide_border=false"/>
+
+<br/>
+
+---
+
+<br/>
+
+## Trophies
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=AbolfazlNb&theme=flat&no-frame=true&no-bg=false&column=7&margin-w=6&title_color=1d4ed8&text_color=1e3a5f&icon_color=3b82f6"/>
+
+<br/>
+
+---
+
+<br/>
+
+## Contribution Graph
+
+<br/>
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AbolfazlNb&bg_color=eff6ff&color=1d4ed8&line=3b82f6&point=1d4ed8&area_color=bfdbfe&area=true&hide_border=false&border_color=93c5fd&title_color=1d4ed8)](https://github.com/AbolfazlNb)
+
+<br/>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg"/>
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg"/>
 </picture>
 
 <br/>
 
-<!-- Blue glowing divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                  CONNECT SECTION                       -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
-## 🌐 Find Me Online
+## Connect
 
 <br/>
 
 <a href="https://github.com/AbolfazlNb">
-  <img src="https://img.shields.io/badge/GitHub-AbolfazlNb-020818?style=for-the-badge&logo=github&logoColor=38bdf8&labelColor=0a1628&color=1e40af"/>
+  <img src="https://img.shields.io/badge/GitHub-AbolfazlNb-eff6ff?style=for-the-badge&logo=github&logoColor=1d4ed8&labelColor=bfdbfe&color=93c5fd"/>
 </a>
 &nbsp;
 <a href="https://t.me/iqaux">
-  <img src="https://img.shields.io/badge/Telegram-@iqaux-020818?style=for-the-badge&logo=telegram&logoColor=38bdf8&labelColor=0a1628&color=1e40af"/>
+  <img src="https://img.shields.io/badge/Telegram-%40iqaux-eff6ff?style=for-the-badge&logo=telegram&logoColor=1d4ed8&labelColor=bfdbfe&color=93c5fd"/>
 </a>
 
 <br/><br/>
 
-<!-- Blue glowing divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+![](https://komarev.com/ghpvc/?username=AbolfazlNb&color=3b82f6&style=flat-square&label=Profile+Views)
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                  QUOTE SECTION                         -->
-<!-- ═══════════════════════════════════════════════════════ -->
+---
 
-## 💭 Dev Quote of the Day
-
-<br/>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&quote=The%20best%20error%20message%20is%20the%20one%20that%20never%20shows%20up&author=Thomas%20Fuchs"/>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                VISITOR COUNTER                         -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
-<br/>
-
-![Visitor Count](https://komarev.com/ghpvc/?username=AbolfazlNb&color=1e40af&style=for-the-badge&label=👁️+PROFILE+VIEWS&abbreviated=true)
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                  FOOTER WAVE                           -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a3a5c,40:0d2137,70:0a1628,100:020818&height=150&section=footer&text=▫️%20GoodBye%20—%20Have%20A%20Good%20Day%20▫️&fontSize=18&fontColor=38bdf8&animation=fadeIn&fontAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:60a5fa,50:93c5fd,100:bfdbfe&height=130&section=footer&text=GoodBye%20%E2%80%94%20Have%20A%20Good%20Day&fontSize=16&fontColor=1e3a5f&animation=fadeIn&fontAlignY=65" width="100%"/>
 
 </div>
